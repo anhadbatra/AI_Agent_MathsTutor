@@ -1,0 +1,5 @@
+.venv
+todo.db
+app.log
+.env
+*.pyc
